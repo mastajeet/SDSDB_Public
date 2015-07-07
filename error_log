@@ -1,0 +1,16 @@
+[13-Dec-2011 00:49:27] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[13-Dec-2011 00:49:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
+[10-Feb-2014 21:58:26] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[10-Feb-2014 21:58:26] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[10-Feb-2014 21:58:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
+[10-Feb-2014 21:58:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
+[10-Feb-2014 21:59:06] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[10-Feb-2014 21:59:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
+[10-Feb-2014 21:59:12] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[10-Feb-2014 21:59:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
+[24-Feb-2014 21:55:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[24-Feb-2014 21:55:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
+[24-Feb-2014 22:58:04] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[24-Feb-2014 22:58:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
+[24-Feb-2014 22:58:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/qcnat/service/mysql_class.php on line 96
+[24-Feb-2014 22:58:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/qcnat/service/mysql_class.php on line 126
